@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "versionCode": 2,
+  "showPopup": true,
+  "forceUpdate": false,
+  "title": "New Update Available",
+  "message": "Bug fixes and status improvements",
+  "buttonText": "Update Now",
+  "apkUrl": "https://github.com///releases/download/v1.0/Chấm Công Pro_1.0_mod_sign_kill.apk",
+  "popupImage": "",
+  "minSupportedVersion": "2.0",
+  "publishedAt": "2026-05-25 15:12:02"
+}
