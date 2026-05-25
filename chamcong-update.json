@@ -1,6 +1,6 @@
 {
-  "version": "3.0",
-  "versionCode": 3,
+  "version": "99.0",
+  "versionCode": 99,
   "showPopup": true,
   "forceUpdate": true,
   "title": "xin vui lòng cập nhật bản mới nhất trước khi dùng",
@@ -8,6 +8,6 @@
   "buttonText": "Update Now",
   "apkUrl": "https://drive.google.com/uc?export=download&id=1Nc_-ZhQbHnyRLeg41vqxhH7YzJMnoBUT",
   "popupImage": "",
-  "minSupportedVersion": "3.0",
-  "publishedAt": "2026-05-25 17:59:55"
+  "minSupportedVersion": "1.0",
+  "publishedAt": "2026-05-25 18:03:30"
 }
