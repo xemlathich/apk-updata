@@ -1,13 +1,13 @@
 {
-  "version": "99.0",
-  "versionCode": 99,
+  "version": "1.100.0",
+  "versionCode": 100,
   "showPopup": true,
-  "forceUpdate": true,
-  "title": "xin vui lòng cập nhật bản mới nhất trước khi dùng",
-  "message": "nâng cấp phiên bản mới! ",
-  "buttonText": "Update Now",
-  "apkUrl": "https://drive.google.com/uc?export=download&id=1Nc_-ZhQbHnyRLeg41vqxhH7YzJMnoBUT",
+  "forceUpdate": false,
+  "title": "New Update ",
+  "message": "phiên bản mới nhiều cái hay ho ",
+  "buttonText": "Cập nhật ",
+  "apkUrl": "https://drive.google.com/uc?export=download&id=13WGlXoDIIScMYXAz4O4urpSzP5Y6UpYs",
   "popupImage": "",
-  "minSupportedVersion": "1.0",
-  "publishedAt": "2026-05-25 18:03:30"
+  "minSupportedVersion": "1.100.0",
+  "publishedAt": "2026-05-25 18:40:04"
 }
