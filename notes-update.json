@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "versionCode": 1,
+  "showPopup": false,
+  "forceUpdate": false,
+  "title": "Không có cập nhật",
+  "message": "",
+  "buttonText": "Cập nhật",
+  "apkUrl": "",
+  "popupImage": "",
+  "minSupportedVersion": "1.0"
+}
