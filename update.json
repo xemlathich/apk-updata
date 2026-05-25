@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "versionCode": 1,
+  "version": "2.0",
+  "versionCode": 2,
   "showPopup": true,
   "forceUpdate": true,
   "title": "New Update Available",
@@ -8,6 +8,6 @@
   "buttonText": "Update Now",
   "apkUrl": "https://drive.google.com/uc?export=download&id=1sMJ3bQOBNqw-dyfVPdbOm_YEUIacJ_fi",
   "popupImage": "",
-  "minSupportedVersion": "1.0",
-  "publishedAt": "2026-05-25 15:31:24"
+  "minSupportedVersion": "2.0",
+  "publishedAt": "2026-05-25 15:31:52"
 }
