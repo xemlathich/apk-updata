@@ -1,13 +1,13 @@
 {
-  "version": "2.0",
-  "versionCode": 2,
+  "version": "1.0",
+  "versionCode": 1,
   "showPopup": true,
-  "forceUpdate": false,
+  "forceUpdate": true,
   "title": "New Update Available",
-  "message": "Bug fixes and status improvements",
+  "message": "cập nhật phiên bản mới ",
   "buttonText": "Update Now",
   "apkUrl": "https://drive.google.com/uc?export=download&id=1sMJ3bQOBNqw-dyfVPdbOm_YEUIacJ_fi",
   "popupImage": "",
-  "minSupportedVersion": "2.0",
-  "publishedAt": "2026-05-25 15:23:29"
+  "minSupportedVersion": "1.0",
+  "publishedAt": "2026-05-25 15:31:24"
 }
