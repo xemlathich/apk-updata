@@ -1,13 +1,13 @@
 {
-  "version": "1.100.0",
-  "versionCode": 100,
+  "version": "1.101.0",
+  "versionCode": 101,
   "showPopup": true,
   "forceUpdate": false,
-  "title": "New Update ",
-  "message": "phiên bản mới nhiều cái hay ho ",
-  "buttonText": "Cập nhật ",
+  "title": "New Update Available",
+  "message": "Bug fixes and status improvements",
+  "buttonText": "Update Now",
   "apkUrl": "https://drive.google.com/uc?export=download&id=13WGlXoDIIScMYXAz4O4urpSzP5Y6UpYs",
   "popupImage": "",
-  "minSupportedVersion": "1.100.0",
-  "publishedAt": "2026-05-25 18:40:04"
+  "minSupportedVersion": "1.101.0",
+  "publishedAt": "2026-05-25 19:35:22"
 }
