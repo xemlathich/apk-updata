@@ -1,1 +1,10 @@
-
+{
+  "version": "1.0",
+  "versionCode": 1,
+  "showPopup": true,
+  "forceUpdate": false,
+  "title": "Cập nhật mới",
+  "message": "Đã sửa lỗi",
+  "buttonText": "Cập nhật",
+  "apkUrl": "LINK_APK_CHAMCONG"
+}
